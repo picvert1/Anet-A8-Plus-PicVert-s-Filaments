@@ -1,4 +1,6 @@
 # Anet-A8-Plus MOD
+WARNING ALPHA VERSION (some bug stay there somewhere...)
+
 Configuration files for Anet A8 plus Marlin 2.x
 
 I've added some Filaments type to the LCD menu
